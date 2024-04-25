@@ -3,7 +3,6 @@
 - 🔭 Estou procurando uma oportunidade / primeiro emprego
 - 📜 Cursando: Análise em Desenvolvimento de Sistemas
 - 🌱 Estudando: C# / .Net / Html
-- 😄 Pronouns: ele/dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laborba&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laborba&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
