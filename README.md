@@ -2,7 +2,7 @@
 
 - 🔭 Estou procurando uma oportunidade / primeiro emprego
 - 📜 Cursando: Análise em Desenvolvimento de Sistemas
-- 🌱 Estudando: C# / .Net / Html
+- 🌱 Estudando: Python / C# / .Net / Html
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laborba&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,6 +10,7 @@
 
 
 <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -20,7 +21,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/lucas-aaron-de-borba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href = "mailto:lucasadeborba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://cursos.alura.com.br/user/laborba" target="_blank"><img align="up" height="27" width="100" src="https://cdn.discordapp.com/attachments/690726472780087408/1233097068718063656/alura.png?ex=662bdaa3&is=662a8923&hm=0f387158d921d8d29a9a0cfed7459c0ed30f9eb49747155248a72a19068724ea&"></a>  
+  <a href = "https://cursos.alura.com.br/user/laborba" target="_blank"><img align="up" height="27" width="100" src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg"></a>  
 </div>
  
 
