@@ -1,6 +1,6 @@
 ### Olá! Me chamo Lucas Aaron de Borba! 👋
 
-- 🔭 Estou trabalhando a 01 ano como Desenvolvedor Fullstack Jr
+- 🔭 Estou trabalhando há 01 ano como Desenvolvedor Fullstack Jr
 - 📜 Cursando: Análise em Desenvolvimento de Sistemas (previsão de término em 12/2026)
 - 🌱 Estudando: C# / Asp.Net MVC / Html / CSS / JavaScript / JQuery / MySql
 
