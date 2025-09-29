@@ -1,8 +1,8 @@
 ### Olá! Me chamo Lucas Aaron de Borba! 👋
 
-- 🔭 Estou procurando uma oportunidade / primeiro emprego
-- 📜 Cursando: Análise em Desenvolvimento de Sistemas
-- 🌱 Estudando: Python / C# / .Net / Html / CSS / JavaScript / React
+- 🔭 Estou trabalhando a 01 ano como Desenvolvedor Fullstack Jr
+- 📜 Cursando: Análise em Desenvolvimento de Sistemas (previsão de término em 12/2026)
+- 🌱 Estudando: C# / Asp.Net MVC / Html / CSS / JavaScript / JQuery / MySql
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laborba&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,7 +10,6 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
