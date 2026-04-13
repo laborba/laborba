@@ -2,12 +2,7 @@
 
 - 🔭 Estou trabalhando há 01 ano como Desenvolvedor Fullstack Jr
 - 📜 Cursando: Análise em Desenvolvimento de Sistemas (previsão de término em 12/2026)
-- 🌱 Estudando: C# / Asp.Net MVC / Html / CSS / JavaScript / JQuery / MySql
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laborba&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laborba&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🌱 Estudando: C# / Asp.Net MVC / Html / CSS / JavaScript / MySql
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
